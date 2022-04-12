@@ -18,3 +18,4 @@
 - [국비과정 수료 후기](https://velog.io/@robolab1902/%EA%B5%AD%EB%B9%84%EA%B3%BC%EC%A0%95-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0)
 - [2022년 3월 근황 - 취업](https://velog.io/@robolab1902/2022%EB%85%84-3%EC%9B%94-%EA%B7%BC%ED%99%A9-%EC%B7%A8%EC%97%85)
 - [2022-03 3주차 목표 정리](https://velog.io/@robolab1902/2022-03-3%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C-%EC%A0%95%EB%A6%AC)
+- [AWS Dev 교육 수료](https://velog.io/@robolab1902/AWS-Dev-%EA%B5%90%EC%9C%A1-%EC%88%98%EB%A3%8C)
