@@ -19,3 +19,4 @@
 - [2022년 3월 근황 - 취업](https://velog.io/@robolab1902/2022%EB%85%84-3%EC%9B%94-%EA%B7%BC%ED%99%A9-%EC%B7%A8%EC%97%85)
 - [2022-03 3주차 목표 정리](https://velog.io/@robolab1902/2022-03-3%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C-%EC%A0%95%EB%A6%AC)
 - [AWS Dev 교육 수료](https://velog.io/@robolab1902/AWS-Dev-%EA%B5%90%EC%9C%A1-%EC%88%98%EB%A3%8C)
+- [서버 개발자 인턴 생활](https://velog.io/@robolab1902/%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B4-%EC%83%9D%ED%99%9C)
