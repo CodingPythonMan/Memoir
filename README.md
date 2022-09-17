@@ -10,6 +10,11 @@
 어느새 2022년 8월달이 되었네요. 정신없이 달리다보니 회고록을 적게 된 것도 1년이 훌쩍 지났습니다. 
 1년 1년 쌓여가다보면 또 더 많은 경험이 쌓이리라 생각합니다. 
 
+## 2021
+### 국비과정
+- [국비과정을 듣기 이전을 생각하며](https://velog.io/@robolab1902/%EA%B5%AD%EB%B9%84%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%93%A3%EA%B8%B0-%EC%9D%B4%EC%A0%84%EC%9D%84-%EC%83%9D%EA%B0%81%ED%95%98%EB%A9%B0)
+- [국비과정 중간 후기](https://velog.io/@robolab1902/%EA%B5%AD%EB%B9%84%EA%B3%BC%EC%A0%95-%EC%A4%91%EA%B0%84-%ED%9B%84%EA%B8%B0)
+
 ## 2022
 ### 국비과정
 - [국비과정 1달 남은 시점 후기](https://velog.io/@robolab1902/%EA%B5%AD%EB%B9%84%EA%B3%BC%EC%A0%95-1%EB%8B%AC-%EB%82%A8%EC%9D%80-%EC%8B%9C%EC%A0%90-%ED%9B%84%EA%B8%B0)
@@ -24,8 +29,3 @@
 - [제조업 회사에서 중소 게임 회사로의 여정](https://velog.io/@robolab1902/%EC%A0%9C%EC%A1%B0%EC%97%85-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%A4%91%EC%86%8C-%EA%B2%8C%EC%9E%84-%ED%9A%8C%EC%82%AC%EB%A1%9C%EC%9D%98-%EC%97%AC%EC%A0%95)
 ### 게임 서버
 - [게임회사 생활 중간 점검 - 1](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-1%EA%B0%9C%EC%9B%94)
-
-## 2021
-### 국비과정
-- [국비과정을 듣기 이전을 생각하며](https://velog.io/@robolab1902/%EA%B5%AD%EB%B9%84%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%93%A3%EA%B8%B0-%EC%9D%B4%EC%A0%84%EC%9D%84-%EC%83%9D%EA%B0%81%ED%95%98%EB%A9%B0)
-- [국비과정 중간 후기](https://velog.io/@robolab1902/%EA%B5%AD%EB%B9%84%EA%B3%BC%EC%A0%95-%EC%A4%91%EA%B0%84-%ED%9B%84%EA%B8%B0)
