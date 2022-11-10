@@ -29,3 +29,8 @@
 - [제조업 회사에서 중소 게임 회사로의 여정](https://velog.io/@robolab1902/%EC%A0%9C%EC%A1%B0%EC%97%85-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%A4%91%EC%86%8C-%EA%B2%8C%EC%9E%84-%ED%9A%8C%EC%82%AC%EB%A1%9C%EC%9D%98-%EC%97%AC%EC%A0%95)
 ### 게임 서버
 - [게임회사 생활 중간 점검 - 1](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-1%EA%B0%9C%EC%9B%94)
+
+## 참고했던 글
+## 2022
+### OKKY
+- [클라->서버 전직하고 싶은 4년차 클라이언트](https://okky.kr/articles/789560)
