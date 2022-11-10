@@ -30,7 +30,7 @@
 ### 게임 서버
 - [게임회사 생활 중간 점검 - 1](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-1%EA%B0%9C%EC%9B%94)
 
-## 참고했던 글
+# 참고했던 글
 ## 2022
 ### OKKY
 - [클라->서버 전직하고 싶은 4년차 클라이언트](https://okky.kr/articles/789560)
