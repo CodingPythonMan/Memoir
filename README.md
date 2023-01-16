@@ -30,6 +30,10 @@
 ### 게임 서버
 - [게임회사 생활 중간 점검 - 1](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-1%EA%B0%9C%EC%9B%94)
 
+## 2022
+### 게임 서버
+- [게임회사 생활 중간 점검 - 2](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-%EC%A4%91%EA%B0%84-%EC%A0%90%EA%B2%80-2-%EC%9E%91%EC%84%B1-%EC%A4%91)
+
 # 참고했던 글
 ## 2022
 ### OKKY
