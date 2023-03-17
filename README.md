@@ -23,14 +23,13 @@
 ### 취업 - 웹서버 신입
 - [2022년 3월 근황 - 취업](https://velog.io/@robolab1902/2022%EB%85%84-3%EC%9B%94-%EA%B7%BC%ED%99%A9-%EC%B7%A8%EC%97%85)
 - [2022-03 3주차 목표 정리](https://velog.io/@robolab1902/2022-03-3%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C-%EC%A0%95%EB%A6%AC)
-- [AWS Dev 교육 수료](https://velog.io/@robolab1902/AWS-Dev-%EA%B5%90%EC%9C%A1-%EC%88%98%EB%A3%8C)
 - [웹 서버 개발자 인턴 생활](https://velog.io/@robolab1902/%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B4-%EC%83%9D%ED%99%9C)
 ### 이직 - 게임서버 신입
 - [제조업 회사에서 중소 게임 회사로의 여정](https://velog.io/@robolab1902/%EC%A0%9C%EC%A1%B0%EC%97%85-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%A4%91%EC%86%8C-%EA%B2%8C%EC%9E%84-%ED%9A%8C%EC%82%AC%EB%A1%9C%EC%9D%98-%EC%97%AC%EC%A0%95)
 ### 게임 서버
 - [게임회사 생활 중간 점검 - 1](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-1%EA%B0%9C%EC%9B%94)
 
-## 2022
+## 2023
 ### 게임 서버
 - [게임회사 생활 중간 점검 - 2](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-%EC%A4%91%EA%B0%84-%EC%A0%90%EA%B2%80-2-%EC%9E%91%EC%84%B1-%EC%A4%91)
 
