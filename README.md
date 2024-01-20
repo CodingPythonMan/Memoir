@@ -34,6 +34,10 @@
 - [게임회사 생활 중간 점검 - 2](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-%EC%A4%91%EA%B0%84-%EC%A0%90%EA%B2%80-2-%EC%9E%91%EC%84%B1-%EC%A4%91)
 - [게임회사 생활 - 게임 오픈!](https://velog.io/@robolab1902/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%9E%84-%EC%98%A4%ED%94%88)
 
+## 2024
+### 게임 서버 2년차
+- [2023 회고록 - 프로카데미 반을 지나며](https://velog.io/@robolab1902/2023-%ED%9A%8C%EA%B3%A0%EB%A1%9D-%ED%94%84%EB%A1%9C%EC%B9%B4%EB%8D%B0%EB%AF%B8-%EB%B0%98%EC%9D%84-%EC%A7%80%EB%82%98%EB%A9%B0)
+
 # 참고했던 글
 ## 2022
 ### OKKY
