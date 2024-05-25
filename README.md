@@ -37,6 +37,7 @@
 ## 2024
 ### 게임 서버 2년차
 - [2023 회고록 - 프로카데미 반을 지나며](https://velog.io/@robolab1902/2023-%ED%9A%8C%EA%B3%A0%EB%A1%9D-%ED%94%84%EB%A1%9C%EC%B9%B4%EB%8D%B0%EB%AF%B8-%EB%B0%98%EC%9D%84-%EC%A7%80%EB%82%98%EB%A9%B0)
+- [다른 게임회사로 이직 근황](https://velog.io/@robolab1902/%EB%8B%A4%EB%A5%B8-%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC%EB%A1%9C-%EC%9D%B4%EC%A7%81-%EA%B7%BC%ED%99%A9)
 
 # 참고했던 글
 ## 2022
