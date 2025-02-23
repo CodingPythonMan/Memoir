@@ -46,6 +46,9 @@
 ### 3년차
 - [다른 게임회사로 이직 근황](https://velog.io/@robolab1902/%EB%8B%A4%EB%A5%B8-%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC%EB%A1%9C-%EC%9D%B4%EC%A7%81-%EA%B7%BC%ED%99%A9)
 
+## 2025
+- [2024 회고록 - 어떤 공부를 하면 좋을까?](https://velog.io/@robolab1902/2024-%ED%9A%8C%EA%B3%A0%EB%A1%9D-%EC%96%B4%EB%96%A4-%EA%B3%B5%EB%B6%80%EB%A5%BC-%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C)
+
 # 참고했던 글
 ## 2022
 ### OKKY
